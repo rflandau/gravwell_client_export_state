@@ -1,5 +1,3 @@
-# This fork has been merged into the upstream and is therefore ready for archival.
-
 [![Go Reference](https://pkg.go.dev/badge/github.com/gravwell/gravwell/v3.svg)](https://pkg.go.dev/github.com/gravwell/gravwell/v3)
 
 # Gravwell Open-Source Code
